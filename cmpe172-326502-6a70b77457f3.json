@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cmpe172-326502",
+  "private_key_id": "6a70b77457f3acb91b6455d65eda915ca58342e6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDz3YJ6bYegvWmO\nhb2vWLL28jfWe4hhg5X1HicRNYr7poYvTNuv3KOH2Zj1x9xvdI7ZkRs3lo2Q8elo\nejPcai7VsNOMT97/DGSdYgbev75Udy7jw/nhmauy/LcrTp0q8txws/iFGRFOLaAd\n1umJbvYVYGuOLKDgY5p0S3Uf6O++9vHusYln4ssWTh3Qlc16VjQyVGunYga8xVry\nuwuyfn93FW+U01ZjxTUajpV66aD8WkNJWuZ//6nXE1g4dt5eC/BwogKvZ/V00V3f\nmpTySfYRyfSs7waYaqkk09Kaj0nxavWc76997H+s3WXG9aNHyMIm/Pw4jwFTf1U2\nxOnzMVB1AgMBAAECggEAA9/xGPr+x/DNMBUPKVyJDSmJmDlk1F8n7BnYmV2NNhku\nAzPjT+uUxryQH1c5zmBrwaQxyF162O10Jlm+U3EgRb9g5v2FKdUdqUhQ+O3Kg+L1\n6HQPl0ANz4pUHbz92hPU1AHw2W7P6qFEl2mVwdwOaGxx1ECRlI2N7mTQeUpOwyju\nv+m57DalE6ey0/vhIWFASg5jouNm22nZIH1fk4rHiZcLcVTYgJhUMVyUdqRavKzJ\nPfExSekHE0J1dyGUETAie81eAlM3by96rz0iRkIkd4MsxGkI6DJUbOiUSN+reEhC\nR8udtQERg12kV4NHIyTZ/dhSiqdRUrVjPrQQFXbAgQKBgQD+evGY5AHBcSmuoHeC\njxGwVUPvqWjT3jroeUuG7gCTX08KHuEOEmeuunXwdNzpdk/wobns5tt6snP4aUNe\nXSdj0qTN3JEDYGGcbGogUtjf+V1IQKah3qfaEF1lB67pKebKL+FUE3TvXslcNXb9\nX0T+Z3mqy5qHs3K9MIus7ebqgQKBgQD1UlZlBLVkBmlzWeKZOtn3XvG5HChbRyl0\n2HpyS/+4SPKpEsSmYBmbDZX9UAcLB3NF5Ik5HXQzh8dlOGpHPAFS7eZn3+yoz182\nt29MQNZc+Hu/qe9+FbN+5atfNSXb3TJWeeCswp60rVyL+XC4mFovFXXO5sBWbjOz\n08Q+uQNj9QKBgQCqYdh2fFpskP7Oa6P4px+5xyzoPq3wBL++PNADtEBwa4S5Cvm1\n+T6wLymd6DCso0lcnHumkN7sZKTe8mNnv8kKvdMX/hCdiR9xoujfYXjRZN0+7gJj\nKHeLuh898In8lNBwGOSt7SUCy5zX/vf/JpVEHDXK0+1P5CbzYphyHQrZgQKBgGfW\nfjMsFwtLm37z4PIy8ue+DFrqDDr2mBmZN9sBSDBc0Dm4c/xoWO5EheQ+53xHnwdK\ngLroOLNHGaNCidm1EGplwEzff3DEteyXIEkKeLHJi7fI2lJoJR3lYPBfsrKpohDw\nbaUyi7K2XqHw50F7W1DqqH73NRpgcwn+7OYPsduxAoGAGrtwwTnnMqWGs6wPs5oz\no157HB7Swt4IEpJTRXKMHKpmB9lhc8lz4Pp5vskCM9kuwde8g+S3TPZx0Lodmlw8\ngszo4+YstqmuLQCt6ZGmXC/lF+HepVJbXgISr7Y/cpyn0OgEUEJWdTmj7jx9SM+O\nrflqKUnXz1oZwyLNqRFTonQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "spring-gumball@cmpe172-326502.iam.gserviceaccount.com",
+  "client_id": "101566468000984008500",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spring-gumball%40cmpe172-326502.iam.gserviceaccount.com"
+}
