@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.gumballmachine.GumballMachineTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-01T07:14:02" hostname="DESKTOP-6EIS8HK" time="0.032">
+<testsuite name="com.example.gumballmachine.GumballMachineTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-01T07:39:10" hostname="DESKTOP-6EIS8HK" time="0.031">
   <properties/>
-  <testcase name="testHappyPath()" classname="com.example.gumballmachine.GumballMachineTests" time="0.032"/>
+  <testcase name="testHappyPath()" classname="com.example.gumballmachine.GumballMachineTests" time="0.031"/>
   <system-out><![CDATA[Mighty Gumball, Inc.
 Spring Boot Standing Gumball Model #2021
 
